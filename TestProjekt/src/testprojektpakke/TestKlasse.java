@@ -7,6 +7,8 @@ public class TestKlasse {
 		
 		public static hey;
 		public static
+		
+		//pndedende commit
 //Andet spndende kode
 	}
 
