@@ -7,7 +7,7 @@ public class TestKlasse {
 		
 		public static hey;
 		public static
-
+//Andet spndende kode
 	}
 
 }
