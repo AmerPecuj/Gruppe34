@@ -6,6 +6,7 @@ public class TestKlasse {
 		// TODO Auto-generated method stub
 		
 		public static hey;
+		public static
 
 	}
 
